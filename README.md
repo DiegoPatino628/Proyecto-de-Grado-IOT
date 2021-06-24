@@ -1,0 +1,2 @@
+# Proyecto-de-Grado-IOT
+Al tomar en cuenta que una persona puede llegar a tocarse la cara en un promedio de 23 veces por hora, podemos decir que esto resulta un gesto inconsciente y peligroso en la situación que vivimos actualmente. Por lo cual, mi proyecto pretende disminuir la probabilidad de contraer una infección (coronavirus) de una persona,  ayudando a que se reduzca la cantidad de veces que se toca la cara.
